@@ -26,7 +26,7 @@ const ImageUplaod = ({
     return (
         <CldUploadWidget
             onUpload={handleUpload}
-            uploadPreset="cnkvcv9x"
+            uploadPreset="nhk5tyxv"
             options={{
                 maxFiles: 1
             }}
